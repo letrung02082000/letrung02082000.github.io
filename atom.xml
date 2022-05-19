@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>trung&#39;s blog</title>
+  
+  <subtitle>to the moon...</subtitle>
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2022-05-19T20:34:40.815Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>letrung02082000</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>For a better 2022</title>
+    <link href="http://example.com/2022/01/10/For-a-better-2022/"/>
+    <id>http://example.com/2022/01/10/For-a-better-2022/</id>
+    <published>2022-01-10T13:02:39.000Z</published>
+    <updated>2022-05-19T20:34:40.815Z</updated>
+    
+    <content type="html"><![CDATA[<p>Some notes to prepare for the year 2022.</p><h1 id="My-Goals"><a href="#My-Goals" class="headerlink" title="My Goals"></a>My Goals</h1><ul><li>Sharpen my old skills<br>Javascript, C++<br>DS&amp;A</li><li>Learn new skills<br>More about C#<br>Blockchain</li><li>Language<br>TOEIC 650<br>English speaking</li><li>Books<br>Expert C Deep Secret<br>Unix Network Programming</li></ul>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Some notes to prepare for the year 2022.&lt;/p&gt;
+&lt;h1 id=&quot;My-Goals&quot;&gt;&lt;a href=&quot;#My-Goals&quot; class=&quot;headerlink&quot; title=&quot;My Goals&quot;&gt;&lt;/a&gt;My Goals&lt;/h1&gt;&lt;</summary>
+      
+    
+    
+    
+    
+    <category term="note" scheme="http://example.com/tags/note/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://example.com/2022/01/10/Hello-world/"/>
+    <id>http://example.com/2022/01/10/Hello-world/</id>
+    <published>2022-01-10T13:00:00.000Z</published>
+    <updated>2022-05-19T20:35:09.851Z</updated>
+    
+    <content type="html"><![CDATA[<p>function main() {<br>let i = 0;<br>let u = 1000;</p><p>while (i &lt; 3 * u) {<br>i++;<br>}</p><p>console.log(‘i &lt;3 u’, i);<br>}</p><p>main();</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;function main() {&lt;br&gt;let i = 0;&lt;br&gt;let u = 1000;&lt;/p&gt;
+&lt;p&gt;while (i &amp;lt; 3 * u) {&lt;br&gt;i++;&lt;br&gt;}&lt;/p&gt;
+&lt;p&gt;console.log(‘i &amp;lt;3 u’, i);&lt;br&gt;}&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+    <category term="note" scheme="http://example.com/tags/note/"/>
+    
+  </entry>
+  
+</feed>
