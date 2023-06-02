@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>Retro 2022 and plan for 2023</title>
+      <link href="/2023/01/21/Retro-2022-and-plan-for-2023/"/>
+      <url>/2023/01/21/Retro-2022-and-plan-for-2023/</url>
+      
+        <content type="html"><![CDATA[<p>Time to retro 2022 and plan some for a strategic 2023</p><h1 id="Retro-2022"><a href="#Retro-2022" class="headerlink" title="Retro 2022"></a>Retro 2022</h1><ul><li>What I have done:<ul><li>Sharpened my hard skills: Web development, DS&amp;A</li><li>Got my first employed</li><li>Built a useful project</li><li>Language: TOEIC LR 800</li><li>New hobby: Plants</li></ul></li><li>What I haven’t achieved:<ul><li>TOEIC SW</li><li>Graduation</li><li>Word of the year 2022: Gratitude.</li></ul></li><li>For a better 2023<ul><li>Graduate from university</li><li>TOEIC SW 300</li><li>Read books, better at practice</li><li>New skill: Devops.</li></ul></li></ul>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> note </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Mindfulness</title>
+      <link href="/2022/06/02/Mindfulness/"/>
+      <url>/2022/06/02/Mindfulness/</url>
+      
+        <content type="html"><![CDATA[<ol><li>We focus on winning or losing, it is possession. When we lose, it hurts. When we focus on sympathy, we have nothing to lose. We are being understood too.</li><li>There are 3 things that decide the result of the problem including our decision, other’s decision and Lord’s decision. We can only change one thing that is our decision, then observe other’s decision and believe in Lord’s decision.</li><li>Don’t miss the last, every waiting is worth itself. But it should find your effort.</li></ol>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> pov </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>For a better 2022</title>
+      <link href="/2022/01/10/For-a-better-2022/"/>
+      <url>/2022/01/10/For-a-better-2022/</url>
+      
+        <content type="html"><![CDATA[<p>Some notes to prepare for the year 2022.</p><h1 id="My-Goals"><a href="#My-Goals" class="headerlink" title="My Goals"></a>My Goals</h1><ul><li>Sharpen my old skills<br>Javascript, C++<br>DS&amp;A</li><li>Learn new skills<br>More about C#<br>Blockchain</li><li>Language<br>TOEIC 650<br>English speaking</li><li>Books<br>Expert C Deep Secret<br>Unix Network Programming</li></ul>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> note </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Hello World</title>
+      <link href="/2022/01/10/Hello-world/"/>
+      <url>/2022/01/10/Hello-world/</url>
+      
+        <content type="html"><![CDATA[<p>function main() {<br>let i = 0;<br>let u = 1000;</p><p>while (i &lt; 3 * u) {<br>i++;<br>}</p><p>console.log(‘i &lt;3 u’, i);<br>}</p><p>main();</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> note </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
+</search>
